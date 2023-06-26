@@ -4,7 +4,11 @@
 #   stroke: "#09aa1c"
 #   tags:
 #     - nato
-
+---
 str:
     fill: "0000ff"
     stroke: "0000ff"
+---
+ret: 
+    fill: "#9400D3"
+    stroke: "#9400D3"
