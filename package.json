@@ -1,0 +1,17 @@
+{
+  "name": "ivc-map",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "init":"cimengine-init --name map",
+    "build": "cimengine-build --projectFolder ./map"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "cimengine-build-tools": "^1.1.4"
+  }
+}
