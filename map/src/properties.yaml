@@ -2,7 +2,11 @@
 str:
     fill: "0000ff"
     stroke: "0000ff"
+    tags:
+        - ЛВН, а также ОВН, ЛВГ 
 
 ret: 
     fill: "#9400D3"
     stroke: "#9400D3"
+    tags:
+        - ЛВН, а также ООВГ.
