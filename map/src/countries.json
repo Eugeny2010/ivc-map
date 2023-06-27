@@ -1,4 +1,3 @@
-
 [
 {
 "idc": "str",
@@ -12,7 +11,7 @@
 "idc": "ret",
 "description": "РетРейн - государство в Восточной Европе и в Азии",
 "name": "РетРейн",
-"date": "",
+"date": "???",
 "img": "https://eugeny2010.github.io/lvn_map/flags/ret.jpg",
 "about": ""
 },
@@ -28,8 +27,16 @@
 "idc": "sev",
 "description": "Республика Севосополь - государство в Западной Европе",
 "name": "Республика Севосополь",
-"date": "",
+"date": "???",
 "img": "https://eugeny2010.github.io/lvn_map/flags/sev.jpg",
 "about": "https://vk.com/sevosopol"
-}
+},
+{
+"idc": "lyu",
+"description": "Любовская Республика - государство в Северной Америке",
+"name": "Любовская Республика",
+"date": "???",
+"img": "https://eugeny2010.github.io/lvn_map/flags/lyu.jpg",
+"about": "https://vk.com/lubovskayafederationrepublic"
+},
 ]
