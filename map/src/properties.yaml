@@ -27,8 +27,8 @@ lyu:
         - ЛВН, ООВГ и другие
 
 asr: 
-    fill: "#4682B4"
-    stroke: "#4682B4"
+    fill: "#1E90FF"
+    stroke: "#1E90FF"
     tags:
         - ЛВН, ООВГ
 
