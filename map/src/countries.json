@@ -45,14 +45,22 @@
 "name": "Королевство Пантеания",
 "date": "2 мая 2023",
 "img": "https://eugeny2010.github.io/lvn_map/flags/asr.jpg",
-"about": ""
+"about": "https://vk.com/public220321239"
 },
 {
-"idc": "rur",
+"idc": "ens",
 "description": "Руссанская Республика - государство в Азии (на Дальнем Востоке)",
 "name": "Руссанская Республика",
 "date": "26 ноября 2022 г.",
 "img": "https://eugeny2010.github.io/lvn_map/flags/rur.jpg",
-"about": ""
+"about": "https://vk.com/russania"
+},
+{
+"idc": "rur",
+"description": "Единый Народный Союз - государство в Азии (на Дальнем Востоке) и в Северной Америке",
+"name": "Единый Народный Союз",
+"date": "???",
+"img": "https://eugeny2010.github.io/lvn_map/flags/ens.jpg",
+"about": "https://vk.com/public219609869"
 }
 ]
