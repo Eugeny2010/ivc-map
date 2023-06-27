@@ -49,18 +49,18 @@
 },
 {
 "idc": "ens",
-"description": "Руссанская Республика - государство в Азии (на Дальнем Востоке)",
-"name": "Руссанская Республика",
-"date": "26 ноября 2022 г.",
-"img": "https://eugeny2010.github.io/lvn_map/flags/rur.jpg",
-"about": "https://vk.com/russania"
-},
-{
-"idc": "rur",
 "description": "Единый Народный Союз - государство в Азии (на Дальнем Востоке) и в Северной Америке",
 "name": "Единый Народный Союз",
 "date": "???",
 "img": "https://eugeny2010.github.io/lvn_map/flags/ens.jpg",
 "about": "https://vk.com/public219609869"
+},
+{
+"idc": "rur",
+"description": "Руссанская Республика - государство в Азии (на Дальнем Востоке)",
+"name": "Руссанская Республика",
+"date": "26 ноября 2022 г.",
+"img": "https://eugeny2010.github.io/lvn_map/flags/rur.jpg",
+"about": "https://vk.com/russania"
 }
 ]
