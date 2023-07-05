@@ -40,14 +40,6 @@
 "about": "https://vk.com/sevosopol"
 },
 {
-"idc": "lyu",
-"description": "Любовская Республика - виртуальное государство в Северной Америке",
-"name": "Любовская Республика",
-"date": "???",
-"img": "https://eugeny2010.github.io/lvn_map/flags/lyu.jpg",
-"about": "https://vk.com/lubovskayafederationrepublic"
-},
-{
 "idc": "asr",
 "description": "Королевство Пантеания - виртуальное государство в Западной Европе",
 "name": "Королевство Пантеания",
@@ -57,8 +49,8 @@
 },
 {
 "idc": "ens",
-"description": "Единый Народный Союз - виртуальное государство в Азии (на Дальнем Востоке) и в Северной Америке",
-"name": "Единый Народный Союз",
+"description": "Республика Аляска - виртуальное государство в Азии (на Дальнем Востоке) и в Северной Америке",
+"name": "Республика Аляска",
 "date": "???",
 "img": "https://eugeny2010.github.io/lvn_map/flags/ens.jpg",
 "about": "https://vk.com/public219609869"
@@ -78,5 +70,13 @@
 "date": "???",
 "img": "https://eugeny2010.github.io/lvn_map/flags/vol.jpg",
 "about": "https://vk.com/woleria"
+},
+{
+"idc": "shi",
+"description": "Шианская Федерация - виртуальное государство на Балканах",
+"name": "Шианская Федерация",
+"date": "???",
+"img": "https://sun9-42.userapi.com/impg/zhnmTwuE-6nzQ0BlbW39g1CnSbLbeFAZmcg72Q/Plw9mgOyKZE.jpg?size=1280x895&quality=95&sign=250177b96cab5ce52e0c6666abc17a85&type=album",
+"about": "https://vk.com/club221198345"
 }
 ]
