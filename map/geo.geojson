@@ -9,7 +9,8 @@
         "stroke": "#DC143C",
         "tags": [
           "ЛВН"
-        ]
+        ],
+        "area": "261 834.71"
       },
       "geometry": {
         "type": "Polygon",
@@ -876,7 +877,8 @@
         "stroke": "#808000",
         "tags": [
           "ЛВН, ОВГ"
-        ]
+        ],
+        "area": "321 175.64"
       },
       "geometry": {
         "type": "Polygon",
@@ -1967,7 +1969,8 @@
         "stroke": "#006400",
         "tags": [
           "ЛВН"
-        ]
+        ],
+        "area": "4 246 947.83"
       },
       "geometry": {
         "type": "Polygon",
@@ -3056,7 +3059,8 @@
         "stroke": "#FF8C00",
         "tags": [
           "ЛВН, ОВГ"
-        ]
+        ],
+        "area": "3 357 344.35"
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -3849,7 +3853,8 @@
         "stroke": "#1E90FF",
         "tags": [
           "ЛВН"
-        ]
+        ],
+        "area": "4 296 757.05"
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -7838,7 +7843,8 @@
         "stroke": "#00FF00",
         "tags": [
           "ЛВН"
-        ]
+        ],
+        "area": "333 089.58"
       },
       "geometry": {
         "type": "Polygon",
@@ -8697,7 +8703,8 @@
         "stroke": "#FF0000",
         "tags": [
           "ЛВН"
-        ]
+        ],
+        "area": "877 830.62"
       },
       "geometry": {
         "type": "Polygon",
@@ -9120,7 +9127,8 @@
         "stroke": "#9400D3",
         "tags": [
           "ЛВН"
-        ]
+        ],
+        "area": "3 435 572.04"
       },
       "geometry": {
         "type": "Polygon",
@@ -9745,7 +9753,8 @@
         "stroke": "0000ff",
         "tags": [
           "ЛВН"
-        ]
+        ],
+        "area": "1 166 259.57"
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -10710,7 +10719,8 @@
         "stroke": "#000080",
         "tags": [
           "ЛВН"
-        ]
+        ],
+        "area": "1 169 343.76"
       },
       "geometry": {
         "type": "MultiPolygon",
