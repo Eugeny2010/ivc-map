@@ -7,28 +7,10 @@
 "img": "https://eugeny2010.github.io/lvn_map/flags/rsk.jpg",
 "about": "https://vk.com/respublikaskandinaviya"
 },
-{
-"idc": "ret",
-"description": "РетРейн - виртуальное государство в Восточной Европе и в Азии",
-"name": "РетРейн",
-"date": "???",
-"img": "https://eugeny2010.github.io/lvn_map/flags/ret.jpg",
-"about": ""
-},
-{
-"idc": "akr",
-"description": "Андреевская Конфедеративная Республика - виртуальное государство в Центральной и Восточной Европе",
-"name": "Андреевская Конфедеративная Республика",
-"date": "16 декабря 2022 г.",
-"img": "https://eugeny2010.github.io/lvn_map/flags/akr.jpg",
-"about": "https://vk.com/public183993707"
-},
-{
-"idc": "ens",
-"description": "Республика Аляска - виртуальное государство в Азии (на Дальнем Востоке) и в Северной Америке",
-"name": "Республика Аляска",
-"date": "???",
-"img": "https://eugeny2010.github.io/lvn_map/flags/ens.jpg",
-"about": "https://vk.com/public219609869"
-}
+  {
+    "idc": "gau",
+    "name": "Гаучеславия",
+    "img": "https://sun9-56.userapi.com/impg/-HpVA6stjIPNp7CMFUt7u25EBE0pnhzSkxuUdA/oEZY-JgHHVI.jpg?size=1500x1000&quality=95&sign=4bc4738f45baf0d45d42b3eb4b5322fd&type=album",
+    "about": "https://vk.com/club220974260"
+  }
 ]

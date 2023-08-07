@@ -4442,7 +4442,142 @@
         ],
         "type": "Polygon"
       },
+      "id": 4
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "capital-city",
+        "name": "г. Новоскандинавск"
+      },
+      "geometry": {
+        "coordinates": [
+          23.76624955742733,
+          61.49714959417392
+        ],
+        "type": "Point"
+      },
       "id": 5
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        " type": "city",
+        "name": "г. Хельсинки"
+      },
+      "geometry": {
+        "coordinates": [
+          24.974080601484957,
+          60.21828199586719
+        ],
+        "type": "Point"
+      },
+      "id": 6
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "city",
+        "name": "г. Лаппенранта"
+      },
+      "geometry": {
+        "coordinates": [
+          28.164372363097897,
+          61.04690499649777
+        ],
+        "type": "Point"
+      },
+      "id": 7
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "city",
+        "name": "г. Выборг"
+      },
+      "geometry": {
+        "coordinates": [
+          28.756829596347103,
+          60.703850858926245
+        ],
+        "type": "Point"
+      },
+      "id": 8
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "city",
+        "name": "г. Новый"
+      },
+      "geometry": {
+        "coordinates": [
+          7.528699504127587,
+          60.0486564230977
+        ],
+        "type": "Point"
+      },
+      "id": 9
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "city",
+        "name": "г. Петсамо"
+      },
+      "geometry": {
+        "coordinates": [
+          29.342721412318696,
+          68.93522406499795
+        ],
+        "type": "Point"
+      },
+      "id": 10
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "city",
+        "name": "г. Шахтоград"
+      },
+      "geometry": {
+        "coordinates": [
+          14.709673794435162,
+          60.96200202885058
+        ],
+        "type": "Point"
+      },
+      "id": 11
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "city",
+        "name": "г. Ювяскюля"
+      },
+      "geometry": {
+        "coordinates": [
+          25.743919362470166,
+          62.24753711977061
+        ],
+        "type": "Point"
+      },
+      "id": 12
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "city",
+        "name": "г. Сундсвалль"
+      },
+      "geometry": {
+        "coordinates": [
+          17.370319185856005,
+          62.386796707461116
+        ],
+        "type": "Point"
+      },
+      "id": 13
     }
   ]
 }

@@ -1,27 +1,13 @@
 ---
 
-
-ret: 
-    fill: "#9400D3"
-    stroke: "#9400D3"
-    tags:
-        - ООВГ
-akr: 
-    fill: "#FF0000"
-    stroke: "#FF0000"
-    tags:
-        - ООВГ
-
-ens: 
-    fill: "#FF8C00"
-    stroke: "#FF8C00"
-    tags:
-        - ООВГ
-
 rskfix: 
     fill: "#000080"
     stroke: "#000080"
     tags:
         - ООВГ
 
-
+gau:
+    fill: "#FF4500"
+    stroke: "#FF4500"
+    tags:
+        - ООВГ
