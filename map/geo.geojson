@@ -5,8 +5,8 @@
       "type": "Feature",
       "properties": {
         "name": "nra",
-        "fill": "#4169E1",
-        "stroke": "#FF0000",
+        "fill": "#b8f4ff",
+        "stroke": "#001cf0",
         "tags": [
           "ООВГ"
         ],
@@ -8290,6 +8290,96 @@
       "type": "Feature",
       "properties": {
         "type": "city",
+        "name": "г. Хямеэнлинна"
+      },
+      "geometry": {
+        "coordinates": [
+          24.470321501341573,
+          60.97721028378493
+        ],
+        "type": "Point"
+      },
+      "id": 63
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Площадь Независимости",
+        "type": "landmark-0"
+      },
+      "geometry": {
+        "coordinates": [
+          23.760790582000453,
+          61.49814983386611
+        ],
+        "type": "Point"
+      },
+      "id": 64
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "landmark-0",
+        "name": "Здание Парламента Республики Скандинавия"
+      },
+      "geometry": {
+        "coordinates": [
+          23.762442823180834,
+          61.49817287236979
+        ],
+        "type": "Point"
+      },
+      "id": 65
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "city",
+        "name": "г. Лулео"
+      },
+      "geometry": {
+        "coordinates": [
+          22.154281378501622,
+          65.5909791357181
+        ],
+        "type": "Point"
+      },
+      "id": 66
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "city",
+        "name": "г. Турку"
+      },
+      "geometry": {
+        "coordinates": [
+          22.27059954136996,
+          60.45172116401562
+        ],
+        "type": "Point"
+      },
+      "id": 67
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "city",
+        "name": "г. Осло"
+      },
+      "geometry": {
+        "coordinates": [
+          10.756160442545138,
+          59.92231045861968
+        ],
+        "type": "Point"
+      },
+      "id": 68
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "city",
         "name": "г. Сундсвалль"
       },
       "geometry": {
@@ -8299,7 +8389,7 @@
         ],
         "type": "Point"
       },
-      "id": 63
+      "id": 69
     },
     {
       "type": "Feature",
@@ -8314,7 +8404,7 @@
         ],
         "type": "Point"
       },
-      "id": 64
+      "id": 70
     },
     {
       "type": "Feature",
@@ -8329,7 +8419,7 @@
         ],
         "type": "Point"
       },
-      "id": 65
+      "id": 71
     },
     {
       "type": "Feature",
@@ -8344,7 +8434,7 @@
         ],
         "type": "Point"
       },
-      "id": 66
+      "id": 72
     },
     {
       "type": "Feature",
@@ -8359,7 +8449,7 @@
         ],
         "type": "Point"
       },
-      "id": 67
+      "id": 73
     },
     {
       "type": "Feature",
@@ -8374,7 +8464,7 @@
         ],
         "type": "Point"
       },
-      "id": 68
+      "id": 74
     },
     {
       "type": "Feature",
@@ -8389,7 +8479,7 @@
         ],
         "type": "Point"
       },
-      "id": 69
+      "id": 75
     },
     {
       "type": "Feature",
@@ -8405,7 +8495,7 @@
         ],
         "type": "Point"
       },
-      "id": 70
+      "id": 76
     },
     {
       "type": "Feature",
@@ -8420,7 +8510,7 @@
         ],
         "type": "Point"
       },
-      "id": 71
+      "id": 77
     }
   ]
 }

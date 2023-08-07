@@ -4578,6 +4578,107 @@
         "type": "Point"
       },
       "id": 13
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "city",
+        "name": "г. Осло"
+      },
+      "geometry": {
+        "coordinates": [
+          10.756160442545138,
+          59.92231045861968
+        ],
+        "type": "Point"
+      },
+      "id": 14
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "city",
+        "name": "г. Турку"
+      },
+      "geometry": {
+        "coordinates": [
+          22.27059954136996,
+          60.45172116401562
+        ],
+        "type": "Point"
+      },
+      "id": 15
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "city",
+        "name": "г. Лулео"
+      },
+      "geometry": {
+        "coordinates": [
+          22.154281378501622,
+          65.5909791357181
+        ],
+        "type": "Point"
+      },
+      "id": 16
+    },
+    {
+      "type": "Feature",
+      "properties": {},
+      "geometry": {
+        "coordinates": [
+          25.484625086712555,
+          65.02016844866458
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "landmark",
+        "name": "Здание Парламента Республики Скандинавия"
+      },
+      "geometry": {
+        "coordinates": [
+          23.762442823180834,
+          61.49817287236979
+        ],
+        "type": "Point"
+      },
+      "id": 18
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Площадь Независимости",
+        "type": "landmark"
+      },
+      "geometry": {
+        "coordinates": [
+          23.760790582000453,
+          61.49814983386611
+        ],
+        "type": "Point"
+      },
+      "id": 19
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "city",
+        "name": "г. Хямеэнлинна"
+      },
+      "geometry": {
+        "coordinates": [
+          24.470321501341573,
+          60.97721028378493
+        ],
+        "type": "Point"
+      },
+      "id": 20
     }
   ]
 }
