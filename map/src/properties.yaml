@@ -11,3 +11,9 @@ gau:
     stroke: "#FF4500"
     tags:
         - ООВГ
+
+nra:
+    fill: "#4169E1"
+    stroke: "#FF0000"
+    tags:
+        - ООВГ

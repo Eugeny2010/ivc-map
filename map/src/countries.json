@@ -1,16 +1,23 @@
 [
-{
-"idc": "rskfix",
-"description": "Скандинавия, или Республика Скандинавия, (сокращённо РС) — виртуальное государство в Северной Европе на Скандинавском п-ове",
-"name": "Республика Скандинавия",
-"date": "Июнь 2022 г.",
-"img": "https://eugeny2010.github.io/lvn_map/flags/rsk.jpg",
-"about": "https://vk.com/respublikaskandinaviya"
-},
+  {
+    "idc": "rskfix",
+    "description": "Скандинавия, или Республика Скандинавия, (сокращённо РС) — виртуальное государство в Северной Европе на Скандинавском п-ове",
+    "name": "Республика Скандинавия",
+    "date": "Июнь 2022 г.",
+    "img": "https://sun9-12.userapi.com/impg/qPL8JXLk6F16cdddkoyJ6ecB3LgsvkH9t8aTJg/a2fZcnWBaO4.jpg?size=1080x720&quality=96&sign=3933c844409a47ed07c05d2270b1f570&type=album",
+    "about": "https://vk.com/respublikaskandinaviya"
+  },
   {
     "idc": "gau",
     "name": "Гаучеславия",
     "img": "https://sun9-56.userapi.com/impg/-HpVA6stjIPNp7CMFUt7u25EBE0pnhzSkxuUdA/oEZY-JgHHVI.jpg?size=1500x1000&quality=95&sign=4bc4738f45baf0d45d42b3eb4b5322fd&type=album",
     "about": "https://vk.com/club220974260"
+  },
+  {
+    "idc": "nra",
+    "name": "Народная Республика Агария",
+    "date": " 7 июля 2021 г.",
+    "img": "https://sun9-15.userapi.com/impg/3yJYFluLNo8iDxKM_1Ori0D3ka0XpTPm1_2AXg/sb9qwC_LeiU.jpg?size=360x240&quality=95&sign=522152bf65a4afcd46621543d48c98c7&type=album",
+    "about": "https://vk.com/agaria_official"
   }
 ]
