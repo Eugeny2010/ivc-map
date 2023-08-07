@@ -1,6 +1,6 @@
 [
 {
-"idc": "rsk",
+"idc": "rskfix",
 "description": "Скандинавия, или Республика Скандинавия, (сокращённо РС) — виртуальное государство в Северной Европе на Скандинавском п-ове",
 "name": "Республика Скандинавия",
 "date": "Июнь 2022 г.",
@@ -8,16 +8,8 @@
 "about": "https://vk.com/respublikaskandinaviya"
 },
 {
-"idc": "str",
-"description": "Cтрана Реальности или СР (на англ. CR), - виртуальное государство в Восточной Европе и в Азии",
-"name": "Страна Реальности",
-"date": "Осень 2016 г.",
-"img": "https://eugeny2010.github.io/lvn_map/flags/str.jpg",
-"about": "https://volsash.fandom.com/ru/wiki/%D0%A1%D1%82%D1%80%D0%B0%D0%BD%D0%B0_%D0%A0%D0%B5%D0%B0%D0%BB%D1%8C%D0%BD%D0%BE%D1%81%D1%82%D0%B8"
-},
-{
 "idc": "ret",
-"description": "РетРейн - виртуальноегосударство в Восточной Европе и в Азии",
+"description": "РетРейн - виртуальное государство в Восточной Европе и в Азии",
 "name": "РетРейн",
 "date": "???",
 "img": "https://eugeny2010.github.io/lvn_map/flags/ret.jpg",
@@ -32,51 +24,11 @@
 "about": "https://vk.com/public183993707"
 },
 {
-"idc": "sev",
-"description": "Республика Севосополь - виртуальное государство в Западной Европе",
-"name": "Республика Севосополь",
-"date": "???",
-"img": "https://eugeny2010.github.io/lvn_map/flags/sev.jpg",
-"about": "https://vk.com/sevosopol"
-},
-{
-"idc": "asr",
-"description": "Королевство Пантеания - виртуальное государство в Западной Европе",
-"name": "Королевство Пантеания",
-"date": "2 мая 2023",
-"img": "https://eugeny2010.github.io/lvn_map/flags/asr.jpg",
-"about": "https://vk.com/public220321239"
-},
-{
 "idc": "ens",
 "description": "Республика Аляска - виртуальное государство в Азии (на Дальнем Востоке) и в Северной Америке",
 "name": "Республика Аляска",
 "date": "???",
 "img": "https://eugeny2010.github.io/lvn_map/flags/ens.jpg",
 "about": "https://vk.com/public219609869"
-},
-{
-"idc": "rur",
-"description": "Руссанская Республика - виртуальное государство в Азии (на Дальнем Востоке)",
-"name": "Руссанская Республика",
-"date": "26 ноября 2022 г.",
-"img": "https://eugeny2010.github.io/lvn_map/flags/rur.jpg",
-"about": "https://vk.com/russania"
-},
-{
-"idc": "vol",
-"description": "Королевство Волерия - виртуальное государство в Восточной Европе",
-"name": "Королевство Волерия",
-"date": "???",
-"img": "https://eugeny2010.github.io/lvn_map/flags/vol.jpg",
-"about": "https://vk.com/woleria"
-},
-{
-"idc": "shi",
-"description": "Шианская Федерация - виртуальное государство на Балканах",
-"name": "Шианская Федерация",
-"date": "???",
-"img": "https://sun9-42.userapi.com/impg/zhnmTwuE-6nzQ0BlbW39g1CnSbLbeFAZmcg72Q/Plw9mgOyKZE.jpg?size=1280x895&quality=95&sign=250177b96cab5ce52e0c6666abc17a85&type=album",
-"about": "https://vk.com/club221198345"
 }
 ]

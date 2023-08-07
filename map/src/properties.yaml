@@ -1,59 +1,27 @@
 ---
-str:
-    fill: "0000ff"
-    stroke: "0000ff"
-    tags:
-        - ЛВН
+
 
 ret: 
     fill: "#9400D3"
     stroke: "#9400D3"
     tags:
-        - ЛВН
+        - ООВГ
 akr: 
     fill: "#FF0000"
     stroke: "#FF0000"
     tags:
-        - ЛВН
-sev: 
-    fill: "#00FF00"
-    stroke: "#00FF00"
-    tags:
-        - ЛВН
-
-asr: 
-    fill: "#1E90FF"
-    stroke: "#1E90FF"
-    tags:
-        - ЛВН
+        - ООВГ
 
 ens: 
     fill: "#FF8C00"
     stroke: "#FF8C00"
     tags:
-        - ЛВН, ОВГ
+        - ООВГ
 
-rur: 
-    fill: "#006400"
-    stroke: "#006400"
-    tags:
-        - ЛВН
-rsk: 
+rskfix: 
     fill: "#000080"
     stroke: "#000080"
     tags:
-        - ЛВН
-
-vol: 
-    fill: "#808000"
-    stroke: "#808000"
-    tags:
-        - ЛВН, ОВГ
-
-shi: 
-    fill: "#DC143C"
-    stroke: "#DC143C"
-    tags:
-        - ЛВН
+        - ООВГ
 
 
