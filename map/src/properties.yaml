@@ -34,3 +34,9 @@ rsa:
     stroke: "#8B4513"
     tags:
         - ООВГ
+
+vol:
+    fill: "#0000FF"
+    stroke: "#0000FF"
+    tags:
+        - ООВГ
