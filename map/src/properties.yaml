@@ -28,3 +28,9 @@ sqr:
     stroke: "#ff0000"
     tags:
         - ООВГ
+
+rsa:
+    fill: "#D2691E"
+    stroke: "#8B4513"
+    tags:
+        - ООВГ
