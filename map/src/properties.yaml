@@ -22,3 +22,9 @@ akr:
     stroke: "#800000"
     tags:
         - ООВГ
+
+sqr:
+    fill: "#ff0000"
+    stroke: "#ff0000"
+    tags:
+        - ООВГ
