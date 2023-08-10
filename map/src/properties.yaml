@@ -17,3 +17,8 @@ nra:
     stroke: "#001cf0"
     tags:
         - ООВГ
+akr:
+    fill: "FF0000"
+    stroke: "#800000"
+    tags:
+        - ООВГ
