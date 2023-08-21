@@ -40,3 +40,9 @@ vol:
     stroke: "#0000FF"
     tags:
         - ООВГ
+
+ksh:
+    fill: "#0000CD"
+    stroke: "#7FFFD4"
+    tags:
+        - ООВГ
