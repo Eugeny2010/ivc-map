@@ -46,3 +46,9 @@ ksh:
     stroke: "#7FFFD4"
     tags:
         - ООВГ
+
+ker: 
+    fill: "#00FFFF"
+    stroke: "#00FFF"
+    tags:
+        - ООВГ
