@@ -53,3 +53,9 @@ ksh:
     tags:
         - ООВГ
 
+mir: 
+    fill: "#FFC0CB"
+    stroke: "#FF69B4"
+    tags:
+        - ООВГ
+
