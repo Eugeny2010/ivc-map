@@ -41,14 +41,15 @@ vol:
     tags:
         - ООВГ
 
+ker: 
+    fill: "#00FFFF"
+    stroke: "#00FFFF"
+    tags:
+        - ООВГ
+
 ksh:
     fill: "#0000CD"
     stroke: "#7FFFD4"
     tags:
         - ООВГ
 
-ker: 
-    fill: "#00FFFF"
-    stroke: "#00FFFF"
-    tags:
-        - ООВГ

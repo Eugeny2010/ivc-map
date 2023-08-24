@@ -48,6 +48,15 @@
     "img": "https://sun9-73.userapi.com/impg/wK-v3G99Jncq-kr1-ghl1_kDqwOkexy45rBTsQ/6EiH2WQEb50.jpg?size=1002x658&quality=95&sign=3eefe9c442d8df82164e5c94839d8fab&type=album",
     "about": "https://vk.com/woleria"
   },
+   {
+  "idc": "ker",
+  "description": "Kingdom Kerania",
+  "name": "Королевство Керания",
+  "date": "24.05.2023",
+  "img": "https://i.imgur.com/Th0riYY.png",
+  "about": "https://vk.com/club219987298"
+},
+
   {
   "idc": "ksh",
   "description": "государство в Северной Америке, омываемое Тихим и Атлантическим океаном. Государство давольно развитое и богатое. В стране нет официальной идеологии и религии. Главная цель Государства - делать своих граждан счастливыми.",
@@ -55,14 +64,6 @@
   "date": "21 августа 2022",
   "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Flag_of_the_Confederate_States_of_America_%281861%E2%80%931863%29.svg/1200px-Flag_of_the_Confederate_States_of_America_%281861%E2%80%931863%29.svg.png",
   "about": "https://vk.com/club215484803"
-},
- {
-  "idc": "ker",
-  "description": "Kingdom Kerania",
-  "name": "Королевство Керания",
-  "date": "24.05.2023",
-  "img": "https://i.imgur.com/Th0riYY.png",
-  "about": "https://vk.com/club219987298"
 }
 
 ]
